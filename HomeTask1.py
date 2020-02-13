@@ -18,4 +18,4 @@ for i in range(1,len(img)-1):
         fin[i-1][j-1] = temp1[1,1]
 cv2.imshow("Hui",fin)
 cv2.waitKey(0)
-cv2.destroyAllWindows()
+cv2.destroyAllWindows()#хуй пезда
